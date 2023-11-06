@@ -1,14 +1,14 @@
 # IgniteTimer
  
-Hello everybody 🔥!
-In this simple application of a timer, it was a great learning step, I used several libraries 📚, such as React-Hook-Form and even the Router system.
+Olá a todos 🔥!
+Nessa aplicação de temporizador, foi uma ótima etapa de aprendizado, utilizei diversas bibliotecas 📚, como React-Hook-Form e até o System Router.
 
-# Functionalities
+# Funcionalidades
 
-The application has a history screen of tasks that were executed using the timer, showing the date  📆, and the status 👍, if it is completed, in progress, or if it was interrupted
+O aplicativo possui uma tela de histórico das tarefas que foram executadas através do cronômetro, mostrando a data  📆, e o status 👍, se está concluída, em andamento ou se foi interrompida.
 
 ![Finished](https://github.com/PeixerDev/IgniteTimer/assets/127341082/87a9aa08-16fe-4012-9c7a-d76bebda1107)
 
-On the home screen, we can see two fields where we can mark the name of the project and the desired time in minutes.
+Na tela inicial podemos ver dois campos onde podemos marcar o nome do projeto e o tempo desejado em minutos.
 
 ![Untitled](https://github.com/PeixerDev/IgniteTimer/assets/127341082/a506764c-42fa-41f8-95d8-369886acc160)
